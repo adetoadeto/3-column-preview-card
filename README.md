@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/adetoadeto/stats-preview-card)
-- Live Site URL: ( https://adetoadeto.github.io/3-column-preview-card/)
+- Solution URL: (https://github.com/adetoadeto/3-column-preview-card)
+- Live Site URL: (https://adetoadeto.github.io/3-column-preview-card/)
 
 
 ## My process

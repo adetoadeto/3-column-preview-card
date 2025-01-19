@@ -12,7 +12,7 @@ body {
     height: 100vh;
     overflow-x: hidden;
     box-sizing: border-box;
-    background-color: white;
+    background-color: hsl(0, 0%, 95%);
     font-size: 15px;
     font-family: "Lexend Deca", serif;
     font-weight: 400;
@@ -76,6 +76,7 @@ header h2 {
     font-family: inherit;
     font-weight: 500;
     font-size: 15px;
+    background-color: hsl(0, 0%, 95%);
 }
 
 .sedans button {
